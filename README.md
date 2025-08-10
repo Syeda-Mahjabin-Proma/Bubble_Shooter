@@ -4,7 +4,7 @@
 
 **Bubble Shooter** is a colorful arcade game built using **Python** and **PyOpenGL**.
 Your mission: **Fire bubbles to pop the falling ones before they hit your shooter or escape the screen**!
-With random colors, dynamic speeds, and only a few lives, every second counts.
+With random colors, dynamic speeds and only a few lives, every second counts.
 
 ---
 
