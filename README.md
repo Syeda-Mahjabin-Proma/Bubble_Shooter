@@ -58,8 +58,8 @@ With random colors, dynamic speeds and only a few lives, every second counts.
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/Syeda-Mahjabin-Proma/bubble-shooter.git
-   cd bubble-shooter
+   git clone https://github.com/Syeda-Mahjabin-Proma/Bubble_Shooter.git
+   cd Bubble_Shooter
    ```
 
 2. **Install dependencies**
