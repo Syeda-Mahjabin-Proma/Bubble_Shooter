@@ -58,7 +58,7 @@ With random colors, dynamic speeds and only a few lives, every second counts.
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/your-username/bubble-shooter.git
+   git clone https://github.com/Syeda-Mahjabin-Proma/bubble-shooter.git
    cd bubble-shooter
    ```
 
