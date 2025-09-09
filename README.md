@@ -17,7 +17,7 @@ With random colors, dynamic speeds and only a few lives, every second counts.
 
 * **Shoot a Bubble**
 
-  * `Spacebar` → Launch a yellow bubble upward
+  * `Spacebar` → Launch a yellow bubble upward.
 
 * **Objective**
 
